@@ -1,9 +1,11 @@
 
+```
 ##############################
 #                            #
 #         9,999 EYES         #
 #                            #
 ##############################
+```
 
 A seeded anthology. Every number becomes a word, every word becomes a life — told through the eyes of a soul who's lived them all.
 Live site: add your GitHub Pages link here once deployed
